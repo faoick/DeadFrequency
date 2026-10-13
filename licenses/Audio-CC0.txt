@@ -1,0 +1,26 @@
+DEAD FREQUENCY v4 — recorded sound credits
+
+The Free Firearm Sound Library — CC0 1.0
+Authors: Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney.
+Source: https://opengameart.org/content/the-free-firearm-sound-library
+Files: Walther PPQ/X_31P.wav, Carl Gustav M45/G_20P.wav,
+Mossberg/N_26P.wav from Prepared SFX Library.
+Adaptations: mono excerpts, 22050 Hz conversion, peak compression,
+short room reflections, normalization and fades.
+
+Gun reload sounds — SpringySpringo — CC0 1.0
+Source: https://opengameart.org/content/gun-reload-sounds
+File: gunreload1.wav. Trimmed, normalized, converted to mono 22050 Hz.
+
+Impact Sounds — Kenney — CC0 1.0
+Source: https://kenney.nl/assets/impact-sounds
+Files: impactWood_medium_001, impactWood_heavy_001,
+impactGlass_heavy_000, impactPunch_heavy_000,
+footstep_concrete_000, footstep_concrete_001, footstep_concrete_002.
+Adaptations: WAV conversion, normalization, trim and fades.
+
+CC0 deed: https://creativecommons.org/publicdomain/zero/1.0/
+License text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+These recordings may be copied, modified and redistributed commercially.
+Remaining music, UI sounds, dash and death stings are original synthesized assets.
+No Hotline Miami assets, music, characters or dialogue are included.

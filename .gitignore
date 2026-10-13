@@ -1,0 +1,9 @@
+*.yyp~
+*.yy~
+*.local
+*.log
+Cache/
+build/
+.cache/
+.temp/
+Windows/

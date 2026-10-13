@@ -1,0 +1,546 @@
+{
+  "$GMProject": "",
+  "%Name": "DeadFrequency",
+  "AudioGroups": [
+    {
+      "$GMAudioGroup": "",
+      "%Name": "audiogroup_default",
+      "name": "audiogroup_default",
+      "resourceType": "GMAudioGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ],
+  "Folders": [],
+  "IncludedFiles": [
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor0.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor0.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor1.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor1.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor2.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor2.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor3.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor3.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor4.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor4.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "actor5.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "actor5.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "Audio-CC0.txt",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "Audio-CC0.txt",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "blood.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "blood.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "glow.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "glow.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level0.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level0.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level1.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level1.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level2.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level2.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level3.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level3.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level4.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level4.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "level5.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "level5.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "levels.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "levels.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "mono.ttf",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "mono.ttf",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "Oswald-OFL.txt",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "Oswald-OFL.txt",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "portrait0.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "portrait0.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "portrait1.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "portrait1.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "portrait2.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "portrait2.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "README.txt",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "README.txt",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "RobotoCondensed-OFL.txt",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "RobotoCondensed-OFL.txt",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "RobotoMono-OFL.txt",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "RobotoMono-OFL.txt",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "story.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "story.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "title.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "title.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "title.ttf",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "title.ttf",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "ui.ttf",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "ui.ttf",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper0.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper0.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper1.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper1.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper2.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper2.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper3.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper3.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper4.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper4.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "upper5.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "upper5.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "vignette.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "vignette.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "weapons.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "weapons.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "workshop.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "workshop.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "workshop.png",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "workshop.png",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    }
+  ],
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2026.0.0.16"
+  },
+  "RoomOrderNodes": [
+    {
+      "roomId": {
+        "name": "Room1",
+        "path": "rooms/Room1/Room1.yy"
+      }
+    }
+  ],
+  "TextureGroups": [
+    {
+      "$GMTextureGroup": "",
+      "%Name": "Default",
+      "autocrop": true,
+      "border": 2,
+      "compressFormat": "bz2",
+      "customOptions": "",
+      "directory": "",
+      "groupParent": null,
+      "isScaled": true,
+      "loadType": "default",
+      "mipsToGenerate": 0,
+      "name": "Default",
+      "resourceType": "GMTextureGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default"
+  },
+  "defaultScriptType": 0,
+  "isEcma": false,
+  "name": "DeadFrequency",
+  "resourceType": "GMProject",
+  "resourceVersion": "2.0",
+  "resources": [
+    {
+      "id": {
+        "name": "obj_game",
+        "path": "objects/obj_game/obj_game.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_game",
+        "path": "scripts/scr_game/scr_game.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_tests",
+        "path": "scripts/scr_tests/scr_tests.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_campaign",
+        "path": "scripts/scr_campaign/scr_campaign.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_action",
+        "path": "scripts/scr_action/scr_action.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_hub",
+        "path": "scripts/scr_hub/scr_hub.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_perf",
+        "path": "scripts/scr_perf/scr_perf.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Room1",
+        "path": "rooms/Room1/Room1.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_clear",
+        "path": "sounds/snd_clear/snd_clear.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_dash",
+        "path": "sounds/snd_dash/snd_dash.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_death",
+        "path": "sounds/snd_death/snd_death.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_door",
+        "path": "sounds/snd_door/snd_door.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_footstep1",
+        "path": "sounds/snd_footstep1/snd_footstep1.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_footstep2",
+        "path": "sounds/snd_footstep2/snd_footstep2.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_footstep3",
+        "path": "sounds/snd_footstep3/snd_footstep3.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_glass",
+        "path": "sounds/snd_glass/snd_glass.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_hit",
+        "path": "sounds/snd_hit/snd_hit.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_night_drive",
+        "path": "sounds/snd_night_drive/snd_night_drive.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_pickup",
+        "path": "sounds/snd_pickup/snd_pickup.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_reload",
+        "path": "sounds/snd_reload/snd_reload.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_shot",
+        "path": "sounds/snd_shot/snd_shot.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_shotgun",
+        "path": "sounds/snd_shotgun/snd_shotgun.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_slam",
+        "path": "sounds/snd_slam/snd_slam.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "snd_smg",
+        "path": "sounds/snd_smg/snd_smg.yy"
+      }
+    }
+  ],
+  "templateType": null
+}

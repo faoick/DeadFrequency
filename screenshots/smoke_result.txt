@@ -1,0 +1,2 @@
+PASS: 12 floors, 164 enemy routes with doors, door collision/occlusion/animation/AI/occupied closure, weapon+ammo+health transfer, floor checkpoints, Russian dialogue and ending, combat regressions, hinged kick + stun, glass bullet shortcut, patrol stability, enforcer HP + grapple escape/failure, 6 protected landings, car arrival, economy and armor
+Gameplay Step CPU: mean 2.984 ms; max 34.674 ms (excludes rendering, test setup and level loads)
